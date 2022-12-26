@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_937199_impleme_0.user" name="x_937199_impleme_0.user">85721c8597002110c4f3322e6253af1b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 15:59:55</sys_created_on>
+        <sys_id>c1721c8597002110c4f3322e6253af1c</sys_id>
+        <sys_name>85721c8597002110c4f3322e6253af1b</sys_name>
+        <sys_package display_value="ImplementacionATM" source="x_937199_impleme_0">f0721c8597002110c4f3322e6253af05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ImplementacionATM">f0721c8597002110c4f3322e6253af05</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c1721c8597002110c4f3322e6253af1c</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
